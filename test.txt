@@ -5,3 +5,4 @@ solution comflict.
 Test close fast forward.
 Test stash after add.
 Test stash.
+This is host where tdj's home.
