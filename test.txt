@@ -1,3 +1,4 @@
 This is test.txt.
 The file changed.
 Test branch.
+Test solution comflict.
