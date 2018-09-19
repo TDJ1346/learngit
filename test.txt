@@ -1,2 +1,7 @@
 This is test.txt.
 The file changed.
+Test branch.
+solution comflict.
+Test close fast forward.
+Test stash after add.
+Test stash.
