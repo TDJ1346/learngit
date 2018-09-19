@@ -3,3 +3,4 @@ The file changed.
 Test branch.
 solution comflict.
 Test close fast forward.
+Test stash.
