@@ -5,3 +5,4 @@ solution comflict.
 Test close fast forward.
 Test stash after add.
 Test stash.
+Changed in the company.
