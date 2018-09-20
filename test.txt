@@ -7,3 +7,4 @@ Test stash after add.
 Test stash.
 This is host where tdj's home.
 Changed in the company.
+This is home's feature-2.
