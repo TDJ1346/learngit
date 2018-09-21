@@ -8,3 +8,4 @@ Test stash.
 This is host where tdj's home.
 Changed in the company.
 This is home's feature-2.
+This is company's feature-3.
